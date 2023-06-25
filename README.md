@@ -11,6 +11,9 @@ This is a Python script that can perform various IP and domain grabbing tasks.
 
 1. Run the script using Python:
 2. Select an option from the available menu:
+   
+   ![cwv2](https://github.com/CyberWardens/CyberWardens-Grabber-V2/assets/137616612/2d8217bb-52dd-4be7-a69c-790cfc165613)
+
 - Option 1: Grab IPs (by domains or API)
 - Option 2: Reverse IPs (IPs to domains)
 - Option 3: List optimization (add/remove HTTP/HTTPS)
